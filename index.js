@@ -44,4 +44,4 @@ const nextPrimFibonacci = (number) => {
     return result;
 }
 
-console.log('Next prime fib ', nextPrimFibonacci(2));
+console.log('Next prime fib ', nextPrimFibonacci(20));
